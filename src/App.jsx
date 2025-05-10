@@ -7,9 +7,9 @@ function App() {
   return (
     <>
 
-      <h1 className='text-6xl text-center'>Vite + React</h1>
+      <h1 className='text-6xl text-center font-extrabold underline'>bistro-boss-client</h1>
 
-      <div className='flex justify-center gap-4'>
+      <div className='flex justify-center gap-4 my-4'>
         <button className="btn btn-neutral">Neutral</button>
         <button className="btn btn-primary">Primary</button>
         <button className="btn btn-secondary">Secondary</button>
